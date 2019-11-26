@@ -1,6 +1,6 @@
 # pxt-comment-block
-<h3>Provides a custom block for displaying user comments<br>
-inline for MakeCode block-style programming.</h3>
+<h3>Provides a custom block for displaying user comments inline<br>
+with MakeCode block-style programming.</h3>
 
 #### How To Use It
 Import this repo as an extension to the MakeCode editor. A "Comment" group will appear amongst the main list of blocks groups, wearing a dark orange color.
