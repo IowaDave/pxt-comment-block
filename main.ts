@@ -2,7 +2,7 @@
  * Custom block for MakeCode
  * by David Sparks
  */
-//% weight=48 color=#ff9640 icon="\uf075"
+//% weight=48 color=#baba00 icon="\uf075"
 namespace comment {
     /**
      * Write a comment
